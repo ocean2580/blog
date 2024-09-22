@@ -96,12 +96,4 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Hacker
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/ocean2580/blog.git
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+theme: Coder

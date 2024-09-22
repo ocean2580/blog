@@ -31,11 +31,11 @@ author: Oliver Du
 gender: /img/avatar.png #/img/female.png
 
 # 站点小图标地址 | Small Icon of Your Site
-favicon: /img/favicon.ico
+favicon: https://www.flaticon.com/free-icons/blog
 
 # 菜单栏配置 | Nav Bar Settings
 menu:
-  Telegram: https://t.me/NightWitcherO
+  Telegram📞: https://t.me/NightWitcherO
   Instagram📸: https://www.instagram.com/oliverdu2580/
   GitHub🐒: https://github.com/ocean2580
 
